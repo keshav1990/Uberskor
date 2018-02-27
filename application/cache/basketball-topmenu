@@ -1,0 +1,20 @@
+a:3:{s:4:"time";i:1519731095;s:3:"ttl";i:86400;s:4:"data";s:1469:"
+                    
+                  <div class="over_lay">
+                  <ul class="menu_tggle">
+                     <li class="soccer "><a href="https://www.uberskor.com/"> <div class="inner_contnt"><span class="sport-icon soccer"></span></div> <b>Futbol</b></a></li>
+                     <!--li class="hockey " ><a href="https://www.uberskor.com/buz-hokeyi"><div class="inner_contnt"><span class="sport-icon hockey"></span></div> <b>Buz Hokeyi</b></a></li-->
+                     <li class="basketball active"><a href="https://www.uberskor.com/basketball/" ><div class="inner_contnt"><span class="sport-icon basketball"></span></div><b> Basketbol</b></a></li>
+					 <li class="tennis "><a href="https://www.uberskor.com/tenis/" ><div class="inner_contnt"><span class="sport-icon tennis"></span></div> <b>Tenis</b></a></li>
+                     <li class="volleyball "><a href="https://www.uberskor.com/voleybol/"><div class="inner_contnt"><span class="sport-icon volleyball"></span></div> <b>Voleybol</b></a></li>
+					 
+					   <li class=" " ><a href="https://www.uberskor.com/beyzbol/">
+						    <div class="inner_contnt"><span class="sport-icon baseball"></span></div>
+						  <b>Beyzbol</b> </a></li>
+					 
+					 <!--li class="handball "><a href="https://www.uberskor.com/hentbol/"><div class="inner_contnt"><span class="sport-icon handball"></span></div> <b>Hentbol</b></a></li--->
+					 
+                                    </ul>
+				  </div>
+				  
+";}
